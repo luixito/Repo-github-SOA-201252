@@ -1,0 +1,17 @@
+{
+  "name": "act1_201252",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "luis daniel molina alfaro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "pg": "^8.11.3",
+    "uuid": "^9.0.0"
+  }
+}
